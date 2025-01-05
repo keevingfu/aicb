@@ -1,4 +1,4 @@
-# 内容大脑应用平台
+# Content Brain Platform
 
 一个基于 React 和 Vite 构建的现代化内容管理和营销平台。
 
